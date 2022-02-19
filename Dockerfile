@@ -4,5 +4,6 @@ COPY package.json /usr/src/app/
 COPY . /usr/src/app
 RUN npm install 
 RUN chmod +x ./dockerCmd.sh
-EXPOSE 4000
+RUN mkdir /usr/src/app/nas
+EXPOSE 5000
 CMD [ "./dockerCmd.sh"]

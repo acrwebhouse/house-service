@@ -2,4 +2,3 @@ node_modules
 swagger_output.json
 .env
 uploadTmp
-storage
