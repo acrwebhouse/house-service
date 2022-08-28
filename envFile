@@ -1,5 +1,5 @@
-HOUSE_BASIC_LOCATION=http://35.234.42.100/:14000
-USER_BASIC_LOCATION=http://35.234.42.100/:13000
-NOTIFICATION_BASIC_LOCATION=http://35.234.42.100/:17000
+HOUSE_BASIC_LOCATION=https://matchrentdev.com/house-basic-service
+USER_BASIC_LOCATION=https://matchrentdev.com/user-basic-service
+NOTIFICATION_BASIC_LOCATION=https://matchrentdev.com/notification-basic-service
 SWAGGER_IP=34.81.209.11
 SERVER_PORT=5000
