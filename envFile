@@ -1,5 +1,6 @@
 HOUSE_BASIC_LOCATION=https://matchrentdev.com/house-basic-service
 USER_BASIC_LOCATION=https://matchrentdev.com/user-basic-service
 NOTIFICATION_BASIC_LOCATION=https://matchrentdev.com/notification-basic-service
-SWAGGER_IP=34.81.209.11
+RESERVE_HOUSE_BASIC_LOCATION=https://matchrentdev.com/reserve-house-basic-service
+SWAGGER_IP=127.0.0.1
 SERVER_PORT=5000
