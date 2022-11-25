@@ -1,7 +1,7 @@
 # house-service
 
 build docker
-docker build . -t acrwebdev/house-service:0.0.2
+docker build . -t acrwebdev/house-service:0.0.3
 
 docker push
 docker push acrwebdev/house-service:0.0.3
