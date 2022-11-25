@@ -3,5 +3,7 @@ USER_BASIC_LOCATION=https://matchrentdev.com/user-basic-service
 NOTIFICATION_BASIC_LOCATION=https://matchrentdev.com/notification-basic-service
 RESERVE_HOUSE_BASIC_LOCATION=https://matchrentdev.com/reserve-house-basic-service
 JOB_BASIC_LOCATION=https://matchrentdev.com/job-basic-service
+EMPLOYEES_BASIC_LOCATION=https://matchrentdev.com/employees-basic-service
+TRANSACTION_BASIC_LOCATION=https://matchrentdev.com/transaction-basic-service
 SWAGGER_IP=127.0.0.1
 SERVER_PORT=5000
